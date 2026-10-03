@@ -1,0 +1,80 @@
+/* element selector*/
+/*ul{
+    background-color: cornsilk;
+}
+h1{
+    background-color: darkgrey;
+}*/
+
+/* id selector*/
+
+/*#first{
+    background-color: darkolivegreen;
+}
+
+  class based selector
+.hee{
+    background-color: yellowgreen;
+}
+
+ grouped based 
+
+h1, .hee, #first{
+    background-color: indianred;
+}*/
+
+h2{
+    background-color: rgb(205, 255, 232);
+    height : 80px;
+    width: 300px;
+
+    /*border : 15px;
+    border-style: dashed; or use solid
+    border-color: blueviolet;*/
+
+    border: 10px solid palevioletred;
+    padding: 10px;
+    margin: 90;
+
+   
+
+}
+
+
+/*ul{
+    font-size: 60;
+}
+li{
+    font-size: 2em;
+}*/
+
+li{
+    font-weight: lighter;
+    font-style: italic;
+}
+
+html{
+    font-size: 500;
+ 
+}
+
+h2{
+    font-size: 2rem;
+}
+
+h1{
+    font-family: 'Courier New', 'Courier', 'monospace';
+}
+
+/* font shorthand property*/
+
+p {
+    font: italic bold 20px Arial;
+}
+
+
+
+
+
+ 
+
