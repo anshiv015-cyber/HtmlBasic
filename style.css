@@ -23,23 +23,19 @@ h1, .hee, #first{
     background-color: indianred;
 }*/
 
-h2{
-    background-color: rgb(205, 255, 232);
-    height : 80px;
-    width: 300px;
+h2 {
+  background-color: rgb(205, 255, 232);
+  height: 80px;
+  width: 300px;
 
-    /*border : 15px;
+  /*border : 15px;
     border-style: dashed; or use solid
     border-color: blueviolet;*/
 
-    border: 10px solid palevioletred;
-    padding: 10px;
-    margin: 90;
-
-   
-
+  border: 10px solid palevioletred;
+  padding: 10px;
+  margin: 90;
 }
-
 
 /*ul{
     font-size: 60;
@@ -48,33 +44,25 @@ li{
     font-size: 2em;
 }*/
 
-li{
-    font-weight: lighter;
-    font-style: italic;
+li {
+  font-weight: lighter;
+  font-style: italic;
 }
 
-html{
-    font-size: 500;
- 
+html {
+  font-size: 2rem;
 }
 
-h2{
-    font-size: 2rem;
+h2 {
+  font-size: 2rem;
 }
 
-h1{
-    font-family: 'Courier New', 'Courier', 'monospace';
+h1 {
+  font-family: "Courier New", "Courier", "monospace";
 }
 
 /* font shorthand property*/
 
 p {
-    font: italic bold 20px Arial;
+  font: italic bold 20px Arial;
 }
-
-
-
-
-
- 
-
